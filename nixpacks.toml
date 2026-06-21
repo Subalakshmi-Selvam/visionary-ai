@@ -1,0 +1,2 @@
+[phases.build] 
+cmd = "pip install -r requirements.txt" 
